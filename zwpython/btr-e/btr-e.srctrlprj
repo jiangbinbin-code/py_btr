@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <source_groups>
+        <source_group_7c535c79-b42e-4a6f-862a-6d173605c21c>
+            <name>btr-e-grp</name>
+            <python_environment_path>D:/zwPython/py37/python-3.7.6.amd64</python_environment_path>
+            <source_extensions>
+                <source_extension>.py</source_extension>
+            </source_extensions>
+            <source_paths>
+                <source_path>topqt</source_path>
+                <source_path>btr_e001base.py</source_path>
+                <source_path>btr_e002dat.py</source_path>
+                <source_path>btr_e003sta.py</source_path>
+                <source_path>btr_e003sta2.py</source_path>
+                <source_path>btr_e004buy.py</source_path>
+                <source_path>btr_e005sell.py</source_path>
+                <source_path>btr_e006broker.py</source_path>
+                <source_path>btr_e007brokerExt.py</source_path>
+                <source_path>btr_e008sma.py</source_path>
+                <source_path>btr_e009plt.py</source_path>
+                <source_path>btr_e010pltExt - 副本.py</source_path>
+                <source_path>btr_e010pltExt.py</source_path>
+                <source_path>btr_e010pltExt2vol.py</source_path>
+                <source_path>btr_e010pltExt3.py</source_path>
+                <source_path>btr_e010pltExt4ha.py</source_path>
+                <source_path>btr_e011pltMInd.py</source_path>
+                <source_path>btr_e012anz.py</source_path>
+                <source_path>btr_e013anzSQN.py</source_path>
+                <source_path>btr_e014anzExt.py</source_path>
+                <source_path>btr_e015folio.py</source_path>
+                <source_path>btr_e015folio2.py</source_path>
+                <source_path>btr_e021trad.py</source_path>
+                <source_path>btr_e022tradExt.py</source_path>
+                <source_path>btr_e023sign.py</source_path>
+                <source_path>btr_e024sign2.py</source_path>
+                <source_path>btr_e029sim.py</source_path>
+                <source_path>btr_f001mini.py</source_path>
+                <source_path>btr_f031opt2x.py</source_path>
+            </source_paths>
+            <status>enabled</status>
+            <type>Python Source Group</type>
+        </source_group_7c535c79-b42e-4a6f-862a-6d173605c21c>
+    </source_groups>
+    <version>8</version>
+</config>
