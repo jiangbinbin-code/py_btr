@@ -12,7 +12,7 @@ QQ群: Top极宽量化总群，124134140
 '''
 
 
-import sys;
+import sys
 sys.path.append("topqt/")
 #
 import os,time,arrow,math,random,pytz
